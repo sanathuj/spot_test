@@ -176,6 +176,8 @@ I have use JWT Authentication mechanism for authenticate users and I already add
 
 - Subsequently, the order will be saved to the 'orders' table with the order status as ORDERED when hit "Create New Order" API' with required details.
 
+![Indexed DB](http://sethmiproducts.com/api.jpg)
+
 
 ## Stage 02
 
