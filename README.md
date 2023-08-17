@@ -200,7 +200,7 @@ I have use JWT Authentication mechanism for authenticate users and I already add
 
 ### Web Form
 - Access the Indexed DB data and store new data in the Indexed DB.
-- Log in to the application and it automatically navigate to the dashboard page. Here, you can manage the Indexed DB, as illustrated in the attached example screenshot. 
+- Log in to the application and it automatically navigate to the dashboard page. Here, you can manage the Indexed DB. 
 
 - Login Details:
   - Email: admin@gmail.com
