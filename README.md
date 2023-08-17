@@ -208,5 +208,8 @@ I have use JWT Authentication mechanism for authenticate users and I already add
 
 - If anyone needed to login as new user, then they can user register as a new user and login to the system
 
+![Indexed DB](http://sethmiproducts.com/index_db.jpg)
+
+
 
 
